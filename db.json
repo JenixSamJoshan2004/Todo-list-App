@@ -1,0 +1,25 @@
+{
+  "items": [
+    {
+      "id": "1",
+      "checked": true,
+      "item": "Practice Coding"
+    },
+    {
+      "id": "2",
+      "checked": false,
+      "item": "Play cricket"
+    },
+    {
+      "id": "3",
+      "checked": true,
+      "item": "Read about AI"
+    },
+    {
+      "id": "4",
+      "checked": false,
+      "item": "Learn node.js"
+    }
+  ]
+  
+}
